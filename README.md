@@ -1,2 +1,3 @@
 # EV-chargers
-This repository contains the code and data I used in this project, as well as map of the EV stations that I use in my presentation.
+This repository contains the code and data I used in this project, this is the link to the map that combines all this data: [file:///C:/Users/fakinyemi/Desktop/Chicago_EV_map.html
+](url)
