@@ -1,0 +1,3455 @@
+Total Electric Charging Stations in Chicago: 314
+Station Name: O'Hare Airport - Short Term Parking
+  Location: (41.97850582311076, -87.90328000006105)
+  State: IL
+  Zip Code: 60666
+  Connector Types: ['J1772']
+  Facility: AIRPORT
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2011-02-11
+  Number of Chargers: 6
+
+Station Name: Star Nissan
+  Location: (42.01155, -87.771151)
+  State: IL
+  Zip Code: 60714
+  Connector Types: ['CHADEMO', 'J1772', 'J1772COMBO']
+  Facility: CAR_DEALER
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2012-01-31
+  Number of Chargers: 2
+
+Station Name: Star Nissan
+  Location: (42.01155, -87.771151)
+  State: IL
+  Zip Code: 60714
+  Connector Types: ['J1772']
+  Facility: CAR_DEALER
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2012-01-31
+  Number of Chargers: 1
+
+Station Name: Golf Mill Ford
+  Location: (42.051495, -87.833913)
+  State: IL
+  Zip Code: 60714
+  Connector Types: ['J1772']
+  Facility: CAR_DEALER
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2013-01-01
+  Number of Chargers: 1
+
+Station Name: 900 SELF PARK PLUG AND SHOP 2
+  Location: (41.89976, -87.626372)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2014-01-20
+  Number of Chargers: 2
+
+Station Name: PARKING A MAIN GARAGE
+  Location: (41.78872, -87.60502)
+  State: IL
+  Zip Code: 60637
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2014-02-27
+  Number of Chargers: 2
+
+Station Name: PARKING A DREXEL GARAGE
+  Location: (41.784474, -87.604518)
+  State: IL
+  Zip Code: 60637
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2014-02-27
+  Number of Chargers: 2
+
+Station Name: Western Avenue Nissan
+  Location: (41.758552, -87.683346)
+  State: IL
+  Zip Code: 60636
+  Connector Types: ['J1772']
+  Facility: CAR_DEALER
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2014-02-01
+  Number of Chargers: 1
+
+Station Name: 1000 LAKE SHORE 1000 LSD
+  Location: (41.90085, -87.62452)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2014-12-01
+  Number of Chargers: 2
+
+Station Name: CFP II, LLC 206
+  Location: (41.891113, -87.620957)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2015-01-07
+  Number of Chargers: 2
+
+Station Name: IRVINE  CO  OFC 71SW L1 09-10
+  Location: (41.880947, -87.636038)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2016-01-09
+  Number of Chargers: 2
+
+Station Name: OMPE ONE MUSEUM PARK
+  Location: (41.866571, -87.621756)
+  State: IL
+  Zip Code: 60605
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2016-01-09
+  Number of Chargers: 2
+
+Station Name: 71086 900910
+  Location: (41.899474, -87.619448)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2016-03-04
+  Number of Chargers: 2
+
+Station Name: 1KFULTON 1KFULTON
+  Location: (41.886859, -87.6525)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2016-03-25
+  Number of Chargers: 2
+
+Station Name: PRUDENTIALPLAZA STATION 01
+  Location: (41.88536, -87.623191)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2016-06-24
+  Number of Chargers: 2
+
+Station Name: RPS ROGERS PARK SOL
+  Location: (42.014848, -87.664015)
+  State: IL
+  Zip Code: 60626
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2016-09-15
+  Number of Chargers: 2
+
+Station Name: 540 W. MADISON LL1-4
+  Location: (41.882368, -87.642179)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2016-09-17
+  Number of Chargers: 2
+
+Station Name: ONE SOUTH WACKE OSW STATION #1
+  Location: (41.881597, -87.636514)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2016-12-17
+  Number of Chargers: 2
+
+Station Name: ELECTRONIC THE BERNADIN
+  Location: (41.896407, -87.626875)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2017-05-17
+  Number of Chargers: 2
+
+Station Name: OPTIMA LEVEL 2
+  Location: (41.891107, -87.62139)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2017-07-22
+  Number of Chargers: 2
+
+Station Name: MOMENT MOMENT 1
+  Location: (41.892047, -87.617241)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2017-07-28
+  Number of Chargers: 2
+
+Station Name: PARKING GARAGE GARAGE LEVEL 1
+  Location: (41.883868, -87.642736)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2017-08-02
+  Number of Chargers: 2
+
+Station Name: Berman Nissan - Chicago
+  Location: (41.943587, -87.708212)
+  State: IL
+  Zip Code: 60618
+  Connector Types: ['CHADEMO', 'J1772']
+  Facility: CAR_DEALER
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2018-06-06
+  Number of Chargers: 2
+
+Station Name: Berman Nissan - Chicago
+  Location: (41.943587, -87.708212)
+  State: IL
+  Zip Code: 60618
+  Connector Types: ['J1772']
+  Facility: CAR_DEALER
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2018-06-06
+  Number of Chargers: 1
+
+Station Name: The Maxwell - Tesla Supercharger
+  Location: (41.869126, -87.639971)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['TESLA']
+  Facility: None
+  Owner type: Unknown
+  Network: Tesla
+  Opening date: 2018-04-01
+  Number of Chargers: 14
+
+Station Name: The Aqua at Lakeshore East - Tesla Supercharger
+  Location: (41.88651, -87.61972)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['TESLA']
+  Facility: None
+  Owner type: Unknown
+  Network: Tesla
+  Opening date: 2018-04-01
+  Number of Chargers: 10
+
+Station Name: 3030 North Broadway - Tesla Supercharger
+  Location: (41.937552, -87.644709)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['TESLA']
+  Facility: None
+  Owner type: Unknown
+  Network: Tesla
+  Opening date: 2018-04-01
+  Number of Chargers: 8
+
+Station Name: UNITED ORD LOT UNITED 7
+  Location: (41.981125, -87.88858)
+  State: IL
+  Zip Code: 60666
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2018-11-14
+  Number of Chargers: 2
+
+Station Name: Grant Park North - Tesla Destination
+  Location: (41.882267, -87.624325)
+  State: IL
+  Zip Code: 60602
+  Connector Types: ['J1772', 'TESLA']
+  Facility: PARK
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2016-02-11
+  Number of Chargers: 3
+
+Station Name: Grant Park South - Tesla Destination
+  Location: (41.877475, -87.624245)
+  State: IL
+  Zip Code: 60604
+  Connector Types: ['J1772', 'TESLA']
+  Facility: PARK
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2016-02-11
+  Number of Chargers: 3
+
+Station Name: Loews Chicago Hotel - Tesla Destination
+  Location: (41.889755, -87.618659)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772', 'TESLA']
+  Facility: HOTEL
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2015-12-01
+  Number of Chargers: 3
+
+Station Name: The Guesthouse Hotel, a Select Registry Property - Tesla Destination
+  Location: (41.970814, -87.6677516)
+  State: IL
+  Zip Code: 60640
+  Connector Types: ['J1772', 'TESLA']
+  Facility: HOTEL
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2015-03-25
+  Number of Chargers: 2
+
+Station Name: Millennium Lakeside Garage - Tesla Destination
+  Location: (41.882094, -87.620496)
+  State: IL
+  Zip Code: 60603
+  Connector Types: ['J1772', 'TESLA']
+  Facility: PARKING_GARAGE
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2019-01-02
+  Number of Chargers: 11
+
+Station Name: Millennium Parking Garage - Tesla Destination
+  Location: (41.881747, -87.620555)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772', 'TESLA']
+  Facility: PARKING_GARAGE
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2019-01-02
+  Number of Chargers: 11
+
+Station Name: Atlantic Aviation MDW - Tesla Destination
+  Location: (41.780364, -87.752853)
+  State: IL
+  Zip Code: 60638
+  Connector Types: ['J1772', 'TESLA']
+  Facility: AIRPORT
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2018-03-26
+  Number of Chargers: 6
+
+Station Name: AC Hotel Chicago Downtown - Tesla Destination
+  Location: (41.893499, -87.625498)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['TESLA']
+  Facility: HOTEL
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2014-05-12
+  Number of Chargers: 2
+
+Station Name: 640 N LaSalle Parking Garage - Tesla Destination
+  Location: (41.8936252, -87.6334239)
+  State: IL
+  Zip Code: 60654
+  Connector Types: ['TESLA']
+  Facility: PARKING_GARAGE
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2017-10-23
+  Number of Chargers: 6
+
+Station Name: Park Hyatt Chicago - Tesla Destination
+  Location: (41.896792, -87.625142)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['TESLA']
+  Facility: HOTEL
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2014-09-09
+  Number of Chargers: 1
+
+Station Name: Wildwood Tavern - Tesla Destination
+  Location: (42.012382, -87.78852)
+  State: IL
+  Zip Code: 60714
+  Connector Types: ['J1772', 'TESLA']
+  Facility: RESTAURANT
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2016-11-17
+  Number of Chargers: 2
+
+Station Name: Advantage Gallery - Tesla Destination
+  Location: (42.0240608, -87.8129991)
+  State: IL
+  Zip Code: 60714
+  Connector Types: ['TESLA']
+  Facility: SHOPPING_CENTER
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2016-03-18
+  Number of Chargers: 2
+
+Station Name: Northwestern Memorial HealthCare
+  Location: (41.894144, -87.617133)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: HOSPITAL
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2018-09-20
+  Number of Chargers: 4
+
+Station Name: Amazon Fresh at Harlem Irving Plaza
+  Location: (41.957394589, -87.805945155)
+  State: IL
+  Zip Code: 60706
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2016-12-30
+  Number of Chargers: 1
+
+Station Name: NEWCITY - Tesla Supercharger
+  Location: (41.908065, -87.646836)
+  State: IL
+  Zip Code: 60610
+  Connector Types: ['TESLA']
+  Facility: None
+  Owner type: Unknown
+  Network: Tesla
+  Opening date: 2019-03-01
+  Number of Chargers: 10
+
+Station Name: Fast Park & Relax Chicago MDW - Tesla Destination
+  Location: (41.79721, -87.74639)
+  State: IL
+  Zip Code: 60638
+  Connector Types: ['J1772', 'TESLA']
+  Facility: None
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2018-12-06
+  Number of Chargers: 12
+
+Station Name: SP PLUS CORP MCCORMICK 2
+  Location: (41.851167, -87.620557)
+  State: IL
+  Zip Code: 60616
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2019-06-05
+  Number of Chargers: 2
+
+Station Name: Lincolnwood Town Center
+  Location: (42.00976, -87.71181)
+  State: IL
+  Zip Code: 60712
+  Connector Types: ['J1772', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: Electrify America
+  Opening date: 2019-07-14
+  Number of Chargers: 4
+
+Station Name: 5252 S CORNELL 5252 APARTMENTS
+  Location: (41.799683, -87.586296)
+  State: IL
+  Zip Code: 60615
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2019-10-04
+  Number of Chargers: 2
+
+Station Name: Target T2781 - Chicago, IL
+  Location: (41.8768, -87.6554)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: Electrify America
+  Opening date: 2019-10-04
+  Number of Chargers: 4
+
+Station Name: SOLDIER FIELD STATION 02
+  Location: (41.863703, -87.616745)
+  State: IL
+  Zip Code: 60605
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2019-10-18
+  Number of Chargers: 2
+
+Station Name: LPC
+  Location: (41.9245874, -87.657365)
+  State: IL
+  Zip Code: 60614
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2016-08-30
+  Number of Chargers: 4
+
+Station Name: One Eleven
+  Location: (41.8865153, -87.6314343)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2016-07-05
+  Number of Chargers: 1
+
+Station Name: 530207  Aon Center Parking Garage
+  Location: (41.884798, -87.6215123)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2015-11-12
+  Number of Chargers: 6
+
+Station Name: 430204  X Chicago Apartments
+  Location: (41.863604, -87.6453386)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2019-01-25
+  Number of Chargers: 4
+
+Station Name: Meijer - Tesla Supercharger
+  Location: (41.725337, -87.683546)
+  State: IL
+  Zip Code: 60805
+  Connector Types: ['TESLA']
+  Facility: None
+  Owner type: Unknown
+  Network: Tesla
+  Opening date: 2019-09-30
+  Number of Chargers: 10
+
+Station Name: Illinois Institute of Technology
+  Location: (41.83545303, -87.62598419)
+  State: IL
+  Zip Code: 60616
+  Connector Types: ['J1772']
+  Facility: COLLEGE_CAMPUS
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2012-03-16
+  Number of Chargers: 2
+
+Station Name: Target T2613 - Chicago, IL
+  Location: (41.90421, -87.64352)
+  State: IL
+  Zip Code: 60610
+  Connector Types: ['J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: Electrify America
+  Opening date: 2019-12-06
+  Number of Chargers: 6
+
+Station Name: Greenway Parking Garage - Tesla Destination
+  Location: (41.889236, -87.630247)
+  State: IL
+  Zip Code: 60654
+  Connector Types: ['TESLA']
+  Facility: None
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2019-05-30
+  Number of Chargers: 24
+
+Station Name: The Maxwell
+  Location: (41.8689103, -87.640039)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2015-11-06
+  Number of Chargers: 2
+
+Station Name: Walgreens at 111 S Halsted St, Chicago
+  Location: (41.880205, -87.6470495)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2019-10-24
+  Number of Chargers: 2
+
+Station Name: Loyola University
+  Location: (41.9988675, -87.6590125)
+  State: IL
+  Zip Code: 60660
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2017-06-02
+  Number of Chargers: 2
+
+Station Name: New City Development
+  Location: (41.908476, -87.6476645)
+  State: IL
+  Zip Code: 60642
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2017-03-10
+  Number of Chargers: 2
+
+Station Name: Blackhawk on Halsted
+  Location: (41.9078785, -87.64933345)
+  State: IL
+  Zip Code: 60642
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2015-12-28
+  Number of Chargers: 2
+
+Station Name: Government Center Self Park
+  Location: (41.8856135, -87.63075645)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2015-11-25
+  Number of Chargers: 2
+
+Station Name: United Center South Entrance
+  Location: (41.879903, -87.6741505)
+  State: IL
+  Zip Code: 60612
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2017-10-15
+  Number of Chargers: 2
+
+Station Name: Walgreens at 316 W Cermak Rd, Chicago
+  Location: (41.853059, -87.635359)
+  State: IL
+  Zip Code: 60616
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2019-10-17
+  Number of Chargers: 1
+
+Station Name: Jewel Osco #3514 3531 Broadway	Chicago	IL
+  Location: (41.9469465, -87.6465385)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2019-08-30
+  Number of Chargers: 2
+
+Station Name: Addison & Clark
+  Location: (41.946911, -87.6548165)
+  State: IL
+  Zip Code: 60613
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2018-09-14
+  Number of Chargers: 2
+
+Station Name: Jewel Osco 4250 N Lincoln Chicago IL
+  Location: (41.9587395, -87.682646)
+  State: IL
+  Zip Code: 60618
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2019-08-30
+  Number of Chargers: 2
+
+Station Name: AMC Ford City 14
+  Location: (41.753993, -87.733809)
+  State: IL
+  Zip Code: 60652
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2018-12-16
+  Number of Chargers: 2
+
+Station Name: The Shops at North Bridge Rush St
+  Location: (41.8911105, -87.625614)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2017-05-18
+  Number of Chargers: 1
+
+Station Name: Jewel Osco 5516 N Clark St Chicago IL
+  Location: (41.982498, -87.6691375)
+  State: IL
+  Zip Code: 60640
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2019-05-31
+  Number of Chargers: 2
+
+Station Name: Medical Campus Parking B
+  Location: (41.79235655, -87.605923)
+  State: IL
+  Zip Code: 60637
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2016-11-28
+  Number of Chargers: 2
+
+Station Name: Whole Foods Market Chicago Edgewater EWR
+  Location: (41.991563, -87.6597735)
+  State: IL
+  Zip Code: 60660
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2018-03-31
+  Number of Chargers: 2
+
+Station Name: Water Tower Place Garage Level 1
+  Location: (41.898114171, -87.622836086)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2015-01-16
+  Number of Chargers: 6
+
+Station Name: AMC CLASSIC Galewood Crossings 14
+  Location: (41.91551575, -87.764428)
+  State: IL
+  Zip Code: 60639
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2019-11-01
+  Number of Chargers: 4
+
+Station Name: United Center East Entrance
+  Location: (41.880715, -87.672479)
+  State: IL
+  Zip Code: 60612
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2020-01-20
+  Number of Chargers: 2
+
+Station Name: University of Illinois - 760 W Taylor St
+  Location: (41.864511, -87.645224)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2020-01-08
+  Number of Chargers: 3
+
+Station Name: University of Illinois - 915 S Paulina St
+  Location: (41.864575, -87.645374)
+  State: IL
+  Zip Code: 60612
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2020-01-10
+  Number of Chargers: 3
+
+Station Name: 222 N LaSalle Parking Garage
+  Location: (41.886578, -87.632776)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: SHELL_RECHARGE
+  Opening date: 2020-03-10
+  Number of Chargers: 4
+
+Station Name: 500 Lake Shore Drive
+  Location: (41.891568, -87.614945)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2020-03-27
+  Number of Chargers: 1
+
+Station Name: ELEVEN THIRTY 1130 S MICHIGAN
+  Location: (41.868618, -87.624626)
+  State: IL
+  Zip Code: 60605
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2020-06-06
+  Number of Chargers: 2
+
+Station Name: BUCK MANAGEMENT LEVEL 1 NORTH
+  Location: (41.880735, -87.648861)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2020-06-17
+  Number of Chargers: 2
+
+Station Name: BUCK MANAGEMENT LEVEL 2 327
+  Location: (41.880655, -87.648861)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2020-06-17
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS EV2
+  Location: (41.989409, -87.730374)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2020-06-18
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS EV4
+  Location: (41.989297, -87.73032)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2020-06-18
+  Number of Chargers: 2
+
+Station Name: O'Hare Airport - Multi-Modal Facility Economy Lot F
+  Location: (41.99426839015599, -87.88105290737916)
+  State: IL
+  Zip Code: 60666
+  Connector Types: ['J1772']
+  Facility: AIRPORT
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2020-07-02
+  Number of Chargers: 24
+
+Station Name: Chicago Travel Plaza - Tesla Supercharger
+  Location: (41.998752, -87.888342)
+  State: IL
+  Zip Code: 60666
+  Connector Types: ['TESLA']
+  Facility: TRAVEL_CENTER
+  Owner type: Unknown
+  Network: Tesla
+  Opening date: 2020-07-10
+  Number of Chargers: 14
+
+Station Name: OZINGA CHINA TOWN
+  Location: (41.851961, -87.64313)
+  State: IL
+  Zip Code: 60616
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2020-07-28
+  Number of Chargers: 2
+
+Station Name: UIC 1100 West Harrison
+  Location: (41.874817, -87.665107)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2020-09-01
+  Number of Chargers: 3
+
+Station Name: Edens Collection
+  Location: (41.975078, -87.745385)
+  State: IL
+  Zip Code: 60630
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2020-08-31
+  Number of Chargers: 2
+
+Station Name: Jewel Osco 5343 N Broadway Chicago
+  Location: (41.978844, -87.659321)
+  State: IL
+  Zip Code: 60640
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2020-08-31
+  Number of Chargers: 2
+
+Station Name: UIC 1100 Wood Street
+  Location: (41.867904, -87.67315)
+  State: IL
+  Zip Code: 60612
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2020-10-23
+  Number of Chargers: 3
+
+Station Name: LEFT BANK CS STATION 1
+  Location: (41.887215, -87.640641)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2020-10-24
+  Number of Chargers: 2
+
+Station Name: Meijer Evergreen Park (Evergreen Park, IL)
+  Location: (41.72509, -87.68338)
+  State: IL
+  Zip Code: 60805
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: Electrify America
+  Opening date: 2020-10-30
+  Number of Chargers: 4
+
+Station Name: Parking Garage - 70 West Madison - Tesla Destination
+  Location: (41.882312, -87.630943)
+  State: IL
+  Zip Code: 60602
+  Connector Types: ['J1772', 'TESLA']
+  Facility: None
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2018-06-14
+  Number of Chargers: 4
+
+Station Name: Sofitel Chicago - Tesla Destination
+  Location: (41.898653, -87.627307)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772', 'TESLA']
+  Facility: None
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2018-05-09
+  Number of Chargers: 5
+
+Station Name: Virgin Hotels, Chicago - LAZ Parking - Tesla Destination
+  Location: (41.88605, -87.626025)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['TESLA']
+  Facility: None
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2015-03-24
+  Number of Chargers: 1
+
+Station Name: Best Western - Hawthorne Terrace
+  Location: (41.944195, -87.645488)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['J1772']
+  Facility: HOTEL
+  Owner type: Unknown
+  Network: AMPUP
+  Opening date: 2020-12-01
+  Number of Chargers: 1
+
+Station Name: PEOPLES GAS PETC 2
+  Location: (41.831297, -87.73148)
+  State: IL
+  Zip Code: 60632
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-01
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS PETC 3
+  Location: (41.831252, -87.731403)
+  State: IL
+  Zip Code: 60632
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-01
+  Number of Chargers: 2
+
+Station Name: NICHE 905 EV STATION 02
+  Location: (41.899418, -87.636886)
+  State: IL
+  Zip Code: 60610
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-05
+  Number of Chargers: 2
+
+Station Name: CFP II, LLC 204
+  Location: (41.891099, -87.621074)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: 540 W. MADISON LL1 - 3
+  Location: (41.883025, -87.642101)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: 3RD FLOOR GREENWAY-2
+  Location: (41.889364, -87.630365)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: 3RD FLOOR GREENWAY-1
+  Location: (41.889364, -87.630328)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: 900 SELF PARK PLUG AND SHOP 3
+  Location: (41.899716, -87.626346)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: 900 SELF PARK PLUG AND SHOP 1
+  Location: (41.89982, -87.626379)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: 900 SELF PARK PLUG AND SHOP 4
+  Location: (41.899639, -87.626307)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: PARKING GARAGE P3 GW
+  Location: (41.880286, -87.636538)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: PARKING GARAGE P3 NGW
+  Location: (41.880395, -87.636583)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: IRVINE  CO  OFC 71SW B2 02-03
+  Location: (41.880925, -87.636038)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: OPTIMA LEVEL 3
+  Location: (41.891113, -87.621403)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: OPTIMA LEVEL 5
+  Location: (41.891147, -87.621408)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: OPTIMA LEVEL 4
+  Location: (41.891121, -87.621419)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: MOMENT MOMENT 2
+  Location: (41.892053, -87.617242)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: UNITED ORD LOT UNITED 5
+  Location: (41.98128, -87.888622)
+  State: IL
+  Zip Code: 60666
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: UNITED ORD LOT UNITED 3
+  Location: (41.981407, -87.888652)
+  State: IL
+  Zip Code: 60666
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: UNITED ORD LOT UNITED 1
+  Location: (41.98117, -87.888711)
+  State: IL
+  Zip Code: 60666
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: UNITED ORD LOT UNITED 2
+  Location: (41.981303, -87.888644)
+  State: IL
+  Zip Code: 60666
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: UNITED ORD LOT UNITED 8
+  Location: (41.981142, -87.888646)
+  State: IL
+  Zip Code: 60666
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: SP PLUS CORP MCCORMICK 1
+  Location: (41.851227, -87.620567)
+  State: IL
+  Zip Code: 60616
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: HF HF-2
+  Location: (41.950568, -87.649802)
+  State: IL
+  Zip Code: 60613
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: SOLDIER FIELD STATION 01
+  Location: (41.863495, -87.616445)
+  State: IL
+  Zip Code: 60605
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: SOLDIER FIELD STATION 03
+  Location: (41.863455, -87.616349)
+  State: IL
+  Zip Code: 60605
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: BUCK MANAGEMENT LEVEL 2 249
+  Location: (41.880822, -87.649123)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: BUCK MANAGEMENT LEVEL 2 246
+  Location: (41.88071, -87.649101)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: BUCK MANAGEMENT LEVEL 2 324
+  Location: (41.880838, -87.649007)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS CENTRAL EV3
+  Location: (41.989425, -87.730459)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS CENTRAL EV4
+  Location: (41.989217, -87.730352)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS EV16
+  Location: (41.989433, -87.730298)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS EV14
+  Location: (41.989417, -87.730331)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS EV13
+  Location: (41.98952, -87.730309)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS CENTRAL EV6
+  Location: (41.989265, -87.730288)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS EV1
+  Location: (41.989385, -87.730277)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS EV3
+  Location: (41.989377, -87.73017)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: PEOPLES GAS PETC 1
+  Location: (41.831199, -87.730815)
+  State: IL
+  Zip Code: 60632
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: SOLSTICE APTS EV STATION 02
+  Location: (41.793733, -87.586153)
+  State: IL
+  Zip Code: 60637
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-01-27
+  Number of Chargers: 2
+
+Station Name: EPA Chicago
+  Location: (41.877992, -87.630422)
+  State: IL
+  Zip Code: 60605
+  Connector Types: ['NEMA515']
+  Facility: FED_GOV
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2021-01-15
+  Number of Chargers: 2
+
+Station Name: MILLENNIUM GRGS MPG PILOT #3
+  Location: (41.882412, -87.621237)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-02-26
+  Number of Chargers: 2
+
+Station Name: MILLENNIUM GRGS MPG PILOT #1
+  Location: (41.882554, -87.620935)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-02-26
+  Number of Chargers: 2
+
+Station Name: MILLENNIUM GRGS MPG PILOT #2
+  Location: (41.88261, -87.620989)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-02-26
+  Number of Chargers: 1
+
+Station Name: ADVOCATE IL MASONIC 2
+  Location: (41.93672, -87.650246)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-02-27
+  Number of Chargers: 2
+
+Station Name: ADVOCATE IL MASONIC 1
+  Location: (41.93669, -87.65024)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-02-27
+  Number of Chargers: 2
+
+Station Name: ADVOCATE IL MASONIC 4
+  Location: (41.937062, -87.652714)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-02-27
+  Number of Chargers: 2
+
+Station Name: ADVOCATE IL MASONIC 5
+  Location: (41.936149, -87.652221)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-02-27
+  Number of Chargers: 2
+
+Station Name: ADVOCATE IL MASONIC 3
+  Location: (41.93704, -87.652759)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-02-27
+  Number of Chargers: 2
+
+Station Name: NORTH + VINE STATION 1
+  Location: (41.910583, -87.64479)
+  State: IL
+  Zip Code: 60610
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-03-13
+  Number of Chargers: 2
+
+Station Name: Jewel Osco 2940 North Ashland Chicago
+  Location: (41.935462, -87.669719)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2021-03-15
+  Number of Chargers: 2
+
+Station Name: ADVOCATE IL MASONIC 6
+  Location: (41.936046, -87.652141)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-03-19
+  Number of Chargers: 2
+
+Station Name: McDonalds 6676
+  Location: (41.892786, -87.631728)
+  State: IL
+  Zip Code: 60610
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2021-05-04
+  Number of Chargers: 1
+
+Station Name: STERLING BAY GREEN STREET 4
+  Location: (41.888024, -87.648346)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-05-16
+  Number of Chargers: 2
+
+Station Name: STERLING BAY GREEN STREET 2
+  Location: (41.888024, -87.648604)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-05-16
+  Number of Chargers: 2
+
+Station Name: STERLING BAY GREEN STREET 1
+  Location: (41.888024, -87.648561)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-05-16
+  Number of Chargers: 1
+
+Station Name: STERLING BAY GREEN STREET 3
+  Location: (41.888024, -87.648486)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-05-16
+  Number of Chargers: 2
+
+Station Name: UIC Maxwell Parking Structure
+  Location: (41.864589, -87.645463)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2021-05-20
+  Number of Chargers: 3
+
+Station Name: Target - Tesla Supercharger
+  Location: (41.92780291, -87.68588061)
+  State: IL
+  Zip Code: 60647
+  Connector Types: ['TESLA']
+  Facility: SHOPPING_CENTER
+  Owner type: Unknown
+  Network: Tesla
+  Opening date: 2021-06-01
+  Number of Chargers: 12
+
+Station Name: 1035 Van Buren - Garage - ParkChirp
+  Location: (41.8767996, -87.6532026)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2021-06-24
+  Number of Chargers: 2
+
+Station Name: Aspire Residences
+  Location: (41.85385, -87.625126)
+  State: IL
+  Zip Code: 60616
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2018-05-18
+  Number of Chargers: 4
+
+Station Name: BOA Logan Square IL4-313 (Chicago, IL)
+  Location: (41.9324, -87.71133)
+  State: IL
+  Zip Code: 60647
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: Electrify America
+  Opening date: 2021-06-28
+  Number of Chargers: 4
+
+Station Name: 110 UPPERWACKER STATION 2
+  Location: (41.882767, -87.637283)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-07-16
+  Number of Chargers: 2
+
+Station Name: RUSH PARKING STATION 02
+  Location: (41.873913, -87.668106)
+  State: IL
+  Zip Code: 60612
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-07-17
+  Number of Chargers: 2
+
+Station Name: RUSH PARKING STATION 01
+  Location: (41.87393, -87.66806)
+  State: IL
+  Zip Code: 60612
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-07-17
+  Number of Chargers: 2
+
+Station Name: B3 LEVEL PARK B3 PARKING
+  Location: (41.889535, -87.620768)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-08-05
+  Number of Chargers: 2
+
+Station Name: PRUDENTIALPLAZA STATION 02
+  Location: (41.887424, -87.622235)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-08-06
+  Number of Chargers: 2
+
+Station Name: TARGET T0942 STATION 1
+  Location: (41.927939, -87.685991)
+  State: IL
+  Zip Code: 60647
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-08-21
+  Number of Chargers: 2
+
+Station Name: TARGET T0942 STATION 2
+  Location: (41.927962, -87.685914)
+  State: IL
+  Zip Code: 60647
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-08-21
+  Number of Chargers: 2
+
+Station Name: Jewel Osco #3345 Roosevelt and Wabash
+  Location: (41.867041, -87.6262505)
+  State: IL
+  Zip Code: 60605
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2021-08-26
+  Number of Chargers: 2
+
+Station Name: Guaranteed Rate Field Lot D
+  Location: (41.830673894, -87.636027112)
+  State: IL
+  Zip Code: 60616
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2021-08-26
+  Number of Chargers: 2
+
+Station Name: 110 UPPERWACKER STATION 3
+  Location: (41.883759, -87.637353)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-09-04
+  Number of Chargers: 2
+
+Station Name: OMM GARAGE #1 ONE MAGNIFICENT
+  Location: (41.9004, -87.624719)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-09-15
+  Number of Chargers: 2
+
+Station Name: Paul Simon Chicago JCC
+  Location: (41.878114, -87.629798)
+  State: IL
+  Zip Code: 60623
+  Connector Types: ['NEMA1450']
+  Facility: FED_GOV
+  Owner type: Unknown
+  Network: Non-Networked
+  Opening date: 2021-09-21
+  Number of Chargers: 3
+
+Station Name: 155 N WACKER DR P1
+  Location: (41.884913, -87.636437)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-10-22
+  Number of Chargers: 2
+
+Station Name: Target T2078 (Chicago, IL)
+  Location: (41.83555, -87.67318)
+  State: IL
+  Zip Code: 60608
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: Electrify America
+  Opening date: 2021-11-11
+  Number of Chargers: 4
+
+Station Name: DRAKE TOWER DRAKE 2
+  Location: (41.900208, -87.622655)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-11-19
+  Number of Chargers: 2
+
+Station Name: DRAKE TOWER DRAKE 1
+  Location: (41.900228, -87.622669)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-11-19
+  Number of Chargers: 2
+
+Station Name: The Mason
+  Location: (41.8849796, -87.6611185)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2019-04-09
+  Number of Chargers: 3
+
+Station Name: INTERPARK 217WASHINGTON 1
+  Location: (41.883001, -87.634264)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-12-18
+  Number of Chargers: 2
+
+Station Name: INTERPARK ONTARIO-CLAIR 1
+  Location: (41.893159, -87.623033)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-12-18
+  Number of Chargers: 2
+
+Station Name: INTERPARK ADAMWABASH 1
+  Location: (41.879243, -87.626855)
+  State: IL
+  Zip Code: 60603
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-12-18
+  Number of Chargers: 2
+
+Station Name: INTERPARK ADAMWABASH 2
+  Location: (41.879251, -87.626887)
+  State: IL
+  Zip Code: 60603
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-12-18
+  Number of Chargers: 2
+
+Station Name: INTERPARK 341 S WELLS 2
+  Location: (41.877536, -87.63426)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-12-18
+  Number of Chargers: 2
+
+Station Name: INTERPARK 314 S WELLS 1
+  Location: (41.877528, -87.634217)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-12-18
+  Number of Chargers: 2
+
+Station Name: INTERPARK LAKE N WELLS 1
+  Location: (41.885387, -87.63364)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-12-18
+  Number of Chargers: 2
+
+Station Name: INTERPARK 181N DEARBORN 1
+  Location: (41.885269, -87.629082)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-12-18
+  Number of Chargers: 2
+
+Station Name: INTERPARK ONTARIO-CLAIR2
+  Location: (41.885402, -87.633583)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-12-22
+  Number of Chargers: 2
+
+Station Name: INTERPARK 217WASHINGTON 3
+  Location: (41.883001, -87.634317)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-12-23
+  Number of Chargers: 2
+
+Station Name: INTERPARK 200 N CLARK 1
+  Location: (41.885939, -87.631224)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2021-12-23
+  Number of Chargers: 2
+
+Station Name: St. Paul and the Redeemer Episcopal Church
+  Location: (41.8044459, -87.5914378)
+  State: IL
+  Zip Code: 60615
+  Connector Types: ['J1772']
+  Facility: PLACE_OF_WORSHIP
+  Owner type: Unknown
+  Network: EVMATCH
+  Opening date: 2021-11-19
+  Number of Chargers: 1
+
+Station Name: 401NMAPARKING 401 N MICHIGAN
+  Location: (41.889778, -87.623525)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-01-13
+  Number of Chargers: 2
+
+Station Name: INTERPARK 181N DEARBORN 2
+  Location: (41.885269, -87.629114)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-01-20
+  Number of Chargers: 2
+
+Station Name: INTERPARK LAKE & WELLS 2
+  Location: (41.89315, -87.62299)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-01-22
+  Number of Chargers: 2
+
+Station Name: Cityfront Place Garage - Floor 2 Right
+  Location: (41.8891899, -87.6181012)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2021-12-22
+  Number of Chargers: 1
+
+Station Name: Cityfront Place Parking Garage - 3rd Floor Left
+  Location: (41.8891899, -87.6181012)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2021-12-22
+  Number of Chargers: 1
+
+Station Name: Cityfront Place Parking Garage - 3rd Floor Right
+  Location: (41.8891899, -87.6181012)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2021-12-22
+  Number of Chargers: 1
+
+Station Name: THOR816WFULTON STATION 1
+  Location: (41.88694, -87.64766)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-03-09
+  Number of Chargers: 2
+
+Station Name: ZOE LIFE 400 2N DUAL
+  Location: (41.889536, -87.654691)
+  State: IL
+  Zip Code: 60642
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-03-18
+  Number of Chargers: 2
+
+Station Name: Harlem Irving Plaza
+  Location: (41.955978, -87.8080705)
+  State: IL
+  Zip Code: 60706
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2023-02-08
+  Number of Chargers: 2
+
+Station Name: 320 S CANAL EV3
+  Location: (41.877104, -87.64055)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-03-25
+  Number of Chargers: 2
+
+Station Name: 320 S CANAL EV2
+  Location: (41.87712, -87.64055)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-03-25
+  Number of Chargers: 2
+
+Station Name: 320 S CANAL EV1
+  Location: (41.877176, -87.64055)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-03-25
+  Number of Chargers: 1
+
+Station Name: 320 S CANAL STATION 1
+  Location: (41.87721, -87.64056)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-03-31
+  Number of Chargers: 2
+
+Station Name: The Breakers at Edgewater Beach
+  Location: (41.9789646, -87.6545663)
+  State: IL
+  Zip Code: 60640
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2021-12-14
+  Number of Chargers: 2
+
+Station Name: McCarthy Ford
+  Location: (41.685101, -87.720354)
+  State: IL
+  Zip Code: 60655
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2022-04-18
+  Number of Chargers: 1
+
+Station Name: 425 S. FIN PLAC 440LASALLE
+  Location: (41.876306, -87.632975)
+  State: IL
+  Zip Code: 60605
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-04-28
+  Number of Chargers: 2
+
+Station Name: HRC WEST 1 HYATT HOTEL 2
+  Location: (41.887463, -87.62218)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-05-11
+  Number of Chargers: 2
+
+Station Name: HRC WEST 1 HYATT HOTEL 1
+  Location: (41.887424, -87.622006)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-05-11
+  Number of Chargers: 2
+
+Station Name: Parq Fulton
+  Location: (41.8845457, -87.6626597)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2021-12-27
+  Number of Chargers: 6
+
+Station Name: LINCOLN COMMON LINCOLN COMMON
+  Location: (41.924266, -87.647382)
+  State: IL
+  Zip Code: 60614
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-06-02
+  Number of Chargers: 2
+
+Station Name: Cubs Blue Lot
+  Location: (41.949021, -87.6567262)
+  State: IL
+  Zip Code: 60613
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2022-05-12
+  Number of Chargers: 2
+
+Station Name: ACADEMY STORE 5781
+  Location: (41.739758, -87.633519)
+  State: IL
+  Zip Code: 60620
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-07-30
+  Number of Chargers: 2
+
+Station Name: INTERPARK TOWER WEST
+  Location: (41.879012, -87.634417)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-07-30
+  Number of Chargers: 2
+
+Station Name: INTERPARK TOWER EAST
+  Location: (41.878972, -87.634503)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-07-30
+  Number of Chargers: 2
+
+Station Name: INTERPARK CH610 EAST
+  Location: (41.883519, -87.635067)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-07-30
+  Number of Chargers: 2
+
+Station Name: INTERPARK CH610 WEST
+  Location: (41.883503, -87.635067)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-07-30
+  Number of Chargers: 2
+
+Station Name: Plant Chicago
+  Location: (41.8123625, -87.6659539)
+  State: IL
+  Zip Code: 60609
+  Connector Types: ['J1772']
+  Facility: OFFICE_BLDG
+  Owner type: Unknown
+  Network: EVMATCH
+  Opening date: 2021-10-29
+  Number of Chargers: 2
+
+Station Name: Walgreens - West Fullerton
+  Location: (41.92571, -87.66618)
+  State: IL
+  Zip Code: 60614
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: eVgo Network
+  Opening date: 2018-03-07
+  Number of Chargers: 1
+
+Station Name: UIC Maxwell Street Parking Structure
+  Location: (41.864717, -87.645444)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: eVgo Network
+  Opening date: 2018-03-07
+  Number of Chargers: 1
+
+Station Name: Walgreens
+  Location: (41.984701, -87.660936)
+  State: IL
+  Zip Code: 60660
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: eVgo Network
+  Opening date: 2018-03-07
+  Number of Chargers: 1
+
+Station Name: Jewel-Osco
+  Location: (41.943222, -87.689259)
+  State: IL
+  Zip Code: 60618
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: eVgo Network
+  Opening date: 2018-03-07
+  Number of Chargers: 1
+
+Station Name: Whole Foods Market
+  Location: (41.908771, -87.653054)
+  State: IL
+  Zip Code: 60642
+  Connector Types: ['CHADEMO', 'J1772', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: eVgo Network
+  Opening date: 2018-03-07
+  Number of Chargers: 3
+
+Station Name: Whole Foods Market
+  Location: (41.948448, -87.649988)
+  State: IL
+  Zip Code: 60613
+  Connector Types: ['CHADEMO', 'J1772', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: eVgo Network
+  Opening date: 2018-03-07
+  Number of Chargers: 3
+
+Station Name: Whole Foods Sauganash (CIC)
+  Location: (41.99146, -87.749262)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: eVgo Network
+  Opening date: 2018-03-07
+  Number of Chargers: 4
+
+Station Name: 225 W WACKER 225 W WACKER
+  Location: (41.886307, -87.635075)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-09-27
+  Number of Chargers: 2
+
+Station Name: Best Western Hawthorne Terrace
+  Location: (41.944195, -87.645488)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['J1772']
+  Facility: HOTEL
+  Owner type: Unknown
+  Network: AMPUP
+  Opening date: 2022-09-15
+  Number of Chargers: 1
+
+Station Name: Union West
+  Location: (41.882764, -87.651188)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: MULTI_UNIT_DWELLING
+  Owner type: Unknown
+  Network: AMPUP
+  Opening date: 2022-09-15
+  Number of Chargers: 3
+
+Station Name: Calumet
+  Location: (41.816823, -87.618607)
+  State: IL
+  Zip Code: 60653
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: EV Connect
+  Opening date: 2022-09-30
+  Number of Chargers: 2
+
+Station Name: 640 N LASALLE STATION #1
+  Location: (41.893633, -87.6329)
+  State: IL
+  Zip Code: 60654
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-10-11
+  Number of Chargers: 2
+
+Station Name: THE COOPER GATEWAY
+  Location: (41.87256, -87.633911)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-10-26
+  Number of Chargers: 2
+
+Station Name: TPM AVRA STATION 1
+  Location: (41.87582, -87.64171)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-11-03
+  Number of Chargers: 2
+
+Station Name: THE COOPER STATION 2
+  Location: (41.872568, -87.633825)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2022-11-17
+  Number of Chargers: 2
+
+Station Name: The Lighthouse Church of All Nations
+  Location: (41.6581629, -87.7309289)
+  State: IL
+  Zip Code: 60803
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2021-07-28
+  Number of Chargers: 4
+
+Station Name: The Admiral at the Lake
+  Location: (41.9760744, -87.6532576)
+  State: IL
+  Zip Code: 60640
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2018-04-02
+  Number of Chargers: 2
+
+Station Name: Target - Tesla Supercharger
+  Location: (41.813258, -87.72186)
+  State: IL
+  Zip Code: 60632
+  Connector Types: ['TESLA']
+  Facility: SHOPPING_CENTER
+  Owner type: Unknown
+  Network: Tesla
+  Opening date: 2022-11-05
+  Number of Chargers: 12
+
+Station Name: Whole Foods Chicago & State
+  Location: (41.896272, -87.628367)
+  State: IL
+  Zip Code: 60654
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: eVgo Network
+  Opening date: 2022-12-23
+  Number of Chargers: 4
+
+Station Name: Mac Management Co
+  Location: (41.8936332, -87.6329)
+  State: IL
+  Zip Code: 60654
+  Connector Types: ['J1772']
+  Facility: OTHER
+  Owner type: Unknown
+  Network: AMPUP
+  Opening date: 2022-12-02
+  Number of Chargers: 4
+
+Station Name: 175 W JACKSON 175 W JACKSON
+  Location: (41.877872, -87.6332)
+  State: IL
+  Zip Code: 60604
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-02-07
+  Number of Chargers: 2
+
+Station Name: The Shops at North Bridge Grant St
+  Location: (41.891844, -87.626446)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2023-02-08
+  Number of Chargers: 2
+
+Station Name: Water Tower Place DCFC
+  Location: (41.8981545, -87.6225114)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: Volta
+  Opening date: 2023-02-08
+  Number of Chargers: 1
+
+Station Name: Trump International Hotel & Tower Chicago
+  Location: (41.888835, -87.626658)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2022-12-26
+  Number of Chargers: 9
+
+Station Name: Chase Bank - 4223 N Harlem Ave
+  Location: (41.95698, -87.80683)
+  State: IL
+  Zip Code: 60706
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: eVgo Network
+  Opening date: 2023-02-14
+  Number of Chargers: 4
+
+Station Name: Gaertner Residences
+  Location: (41.928589, -87.658746)
+  State: IL
+  Zip Code: 60614
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2022-12-13
+  Number of Chargers: 1
+
+Station Name: Whole Foods Lakeview
+  Location: (41.939834, -87.66812)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: eVgo Network
+  Opening date: 2023-03-09
+  Number of Chargers: 4
+
+Station Name: MDWTPGLV1 TPG-01
+  Location: (41.787397, -87.74009)
+  State: IL
+  Zip Code: 60638
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-03-16
+  Number of Chargers: 2
+
+Station Name: MDWTPGLV1 TPG-02
+  Location: (41.787331, -87.74009)
+  State: IL
+  Zip Code: 60638
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-03-16
+  Number of Chargers: 2
+
+Station Name: PARC HURON LEFT STATION
+  Location: (41.894565, -87.641248)
+  State: IL
+  Zip Code: 60654
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-03-18
+  Number of Chargers: 2
+
+Station Name: PARC HURON RIGHT STATION
+  Location: (41.894538, -87.64123)
+  State: IL
+  Zip Code: 60654
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-03-18
+  Number of Chargers: 2
+
+Station Name: 640 N LASALLE STATION #2
+  Location: (41.893689, -87.632994)
+  State: IL
+  Zip Code: 60654
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-03-31
+  Number of Chargers: 2
+
+Station Name: SOLDIER FIELD STATION 04
+  Location: (41.862187, -87.615146)
+  State: IL
+  Zip Code: 60605
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-04-06
+  Number of Chargers: 2
+
+Station Name: Navy Pier
+  Location: (41.891527, -87.608748)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: EV Connect
+  Opening date: 2023-04-19
+  Number of Chargers: 7
+
+Station Name: World Flight Services
+  Location: (41.99282046798044, -87.8961504)
+  State: IL
+  Zip Code: 60666
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2023-05-04
+  Number of Chargers: 10
+
+Station Name: 300 E. Randolph Unit #3
+  Location: (41.8846651, -87.6199166)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2022-12-29
+  Number of Chargers: 1
+
+Station Name: 300 E. Randolph Unit #4
+  Location: (41.8846651, -87.6199166)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2022-12-28
+  Number of Chargers: 1
+
+Station Name: 300 E. Randolph - Unit #1
+  Location: (41.8846651, -87.6199166)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2022-12-29
+  Number of Chargers: 1
+
+Station Name: 300 E. Randolph Unit #2
+  Location: (41.8846651, -87.6199166)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2022-12-29
+  Number of Chargers: 1
+
+Station Name: CHICAGO PARK HQ EV CHARGER #1
+  Location: (41.804881, -87.686415)
+  State: IL
+  Zip Code: 60609
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-06-01
+  Number of Chargers: 2
+
+Station Name: LINCOLNWOOD VOL
+  Location: (42.006411, -87.73608)
+  State: IL
+  Zip Code: 60712
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-06-01
+  Number of Chargers: 2
+
+Station Name: Valmont Chicago
+  Location: (41.869976, -87.7419433)
+  State: IL
+  Zip Code: 60644
+  Connector Types: ['J1772']
+  Facility: OTHER
+  Owner type: Unknown
+  Network: AMPUP
+  Opening date: 2023-04-03
+  Number of Chargers: 1
+
+Station Name: 30 W. Monroe St. Garage
+  Location: (41.88130156185215, -87.62924909591676)
+  State: IL
+  Zip Code: 60603
+  Connector Types: ['J1772']
+  Facility: PUBLIC
+  Owner type: Unknown
+  Network: FLASH
+  Opening date: 2023-06-07
+  Number of Chargers: 2
+
+Station Name: 5556 N Sheridan Road Condominium Association
+  Location: (41.983521, -87.6555955)
+  State: IL
+  Zip Code: 60640
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2023-01-12
+  Number of Chargers: 1
+
+Station Name: Tucker Development - District 1860
+  Location: (42.01231, -87.74176)
+  State: IL
+  Zip Code: 60712
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2023-06-09
+  Number of Chargers: 10
+
+Station Name: TARGET T1879 STATION 2
+  Location: (41.813262, -87.72217)
+  State: IL
+  Zip Code: 60638
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-08-11
+  Number of Chargers: 2
+
+Station Name: TARGET T1879 STATION 1
+  Location: (41.813259, -87.722241)
+  State: IL
+  Zip Code: 60638
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-08-11
+  Number of Chargers: 2
+
+Station Name: Niles Facilities
+  Location: (42.0498914, -87.8321035)
+  State: IL
+  Zip Code: 60714
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2022-06-08
+  Number of Chargers: 2
+
+Station Name: Optima Lakeview
+  Location: (41.9450504, -87.6465576)
+  State: IL
+  Zip Code: 60657
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2021-04-30
+  Number of Chargers: 5
+
+Station Name: 530206 : 333 West Wacker Drive
+  Location: (41.886053, -87.6359543)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2018-12-12
+  Number of Chargers: 4
+
+Station Name: 430203  BMIRF 805, LLC
+  Location: (41.8968325, -87.6323311)
+  State: IL
+  Zip Code: 60610
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2018-12-12
+  Number of Chargers: 4
+
+Station Name: 530210  University of Chicago Booth School of Business - Harper Center
+  Location: (41.7891387, -87.5954555)
+  State: IL
+  Zip Code: 60637
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2019-08-05
+  Number of Chargers: 7
+
+Station Name: 530208  University of Chicago Booth School of Business - Gleacher Center
+  Location: (41.8896871, -87.6222251)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2020-12-09
+  Number of Chargers: 4
+
+Station Name: 430205  Eugenie Terrace on the Park - North Extension
+  Location: (41.9137578, -87.633797)
+  State: IL
+  Zip Code: 60614
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2022-06-19
+  Number of Chargers: 4
+
+Station Name: Cornell Village Underground Garage
+  Location: (41.800975, -87.5854957)
+  State: IL
+  Zip Code: 60615
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2023-03-01
+  Number of Chargers: 1
+
+Station Name: UIC Parking Services Lot 9
+  Location: (41.8748062, -87.6507875)
+  State: IL
+  Zip Code: 60612
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2023-01-25
+  Number of Chargers: 2
+
+Station Name: 4211 Ferdinand St
+  Location: (41.88930296219866, -87.73111634859426)
+  State: IL
+  Zip Code: 60624
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2023-07-20
+  Number of Chargers: 1
+
+Station Name: Evo Union Park
+  Location: (41.8849841, -87.6640729)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2021-12-28
+  Number of Chargers: 4
+
+Station Name: Zeigler Cadillac of Lincolnwood Dealership
+  Location: (42.014911, -87.746924)
+  State: IL
+  Zip Code: 60712
+  Connector Types: ['J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: EV Connect
+  Opening date: 2023-10-07
+  Number of Chargers: 1
+
+Station Name: 530201 - NMH-441 E. Ontario
+  Location: (41.893233, -87.615834)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2023-10-13
+  Number of Chargers: 6
+
+Station Name: GRANDOHIO CONDO STATION 1
+  Location: (41.891997, -87.621655)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-11-11
+  Number of Chargers: 1
+
+Station Name: GRANDOHIO CONDO STATION 2
+  Location: (41.892043, -87.621646)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-11-11
+  Number of Chargers: 2
+
+Station Name: NORTHWESTERN ERIE GARAGE 2
+  Location: (41.893813, -87.619448)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-12-12
+  Number of Chargers: 2
+
+Station Name: NORTHWESTERN ERIE GARAGE 1
+  Location: (41.893823, -87.61955)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-12-12
+  Number of Chargers: 2
+
+Station Name: NORTHWESTERN HURON GARAGE 1
+  Location: (41.895335, -87.622092)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-12-13
+  Number of Chargers: 2
+
+Station Name: NORTHWESTERN HURON GARAGE 2
+  Location: (41.895343, -87.62198)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2023-12-13
+  Number of Chargers: 2
+
+Station Name: Pulaski
+  Location: (41.986232, -87.7255355)
+  State: IL
+  Zip Code: 60646
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2023-12-28
+  Number of Chargers: 2
+
+Station Name: FULTON WEST FULTON WEST 1
+  Location: (41.887414, -87.660476)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-01-04
+  Number of Chargers: 2
+
+Station Name: Ashland & Roosevelt
+  Location: (41.865293, -87.667669)
+  State: IL
+  Zip Code: 60608
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: None
+  Owner type: Unknown
+  Network: eVgo Network
+  Opening date: 2024-01-04
+  Number of Chargers: 6
+
+Station Name: LAVIN FAMILY PAVILION
+  Location: (41.89385898511089, -87.62094227386474)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2024-01-09
+  Number of Chargers: 7
+
+Station Name: 7Charge - Chicago
+  Location: (41.82512, -87.68524)
+  State: IL
+  Zip Code: 60609
+  Connector Types: ['CHADEMO', 'J1772COMBO']
+  Facility: CONVENIENCE_STORE
+  Owner type: Unknown
+  Network: 7CHARGE
+  Opening date: 2024-01-05
+  Number of Chargers: 2
+
+Station Name: MILIEU APTS MILIEU 1
+  Location: (41.87852, -87.649152)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-03-02
+  Number of Chargers: 2
+
+Station Name: MILIEU APTS MILIEU 2
+  Location: (41.878657, -87.649169)
+  State: IL
+  Zip Code: 60607
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-03-02
+  Number of Chargers: 1
+
+Station Name: 400 E RANDOLPH STATION 1
+  Location: (41.885003, -87.616419)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-03-20
+  Number of Chargers: 2
+
+Station Name: North Dearborn St Garage - Tesla Destination
+  Location: (41.8852977477494, -87.6293201173458)
+  State: IL
+  Zip Code: 60601
+  Connector Types: ['J1772', 'TESLA']
+  Facility: PARKING_GARAGE
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2024-03-21
+  Number of Chargers: 12
+
+Station Name: South Franklin St Garage - Tesla Destination
+  Location: (41.87740007276, -87.6348052589492)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772', 'TESLA']
+  Facility: PARKING_GARAGE
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2024-03-21
+  Number of Chargers: 12
+
+Station Name: MOTIF ON BELDEN MOTIF ON BELDEN
+  Location: (41.923082, -87.699183)
+  State: IL
+  Zip Code: 60647
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-04-03
+  Number of Chargers: 2
+
+Station Name: West Madison St Garage - Tesla Destination
+  Location: (41.8818721539399, -87.6346239252491)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772', 'TESLA']
+  Facility: PARKING_GARAGE
+  Owner type: Unknown
+  Network: Tesla Destination
+  Opening date: 2024-04-11
+  Number of Chargers: 12
+
+Station Name: Best western
+  Location: (41.8054739, -87.5850341)
+  State: IL
+  Zip Code: 60615
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: NOODOE
+  Opening date: 2024-04-22
+  Number of Chargers: 1
+
+Station Name: Village of Elm Wood Park
+  Location: (41.92642, -87.81868)
+  State: IL
+  Zip Code: 60707
+  Connector Types: ['J1772']
+  Facility: MUNI_GOV
+  Owner type: Unknown
+  Network: EVMATCH
+  Opening date: 2023-11-08
+  Number of Chargers: 2
+
+Station Name: MxD Chicago IL
+  Location: (41.90736, -87.65526)
+  State: IL
+  Zip Code: 60642
+  Connector Types: ['J1772']
+  Facility: PARKING_LOT
+  Owner type: Unknown
+  Network: EVGATEWAY
+  Opening date: 2023-09-12
+  Number of Chargers: 4
+
+Station Name: Focal Point - Chicago
+  Location: (41.8173889, -87.7218843)
+  State: IL
+  Zip Code: 60632
+  Connector Types: ['J1772']
+  Facility: MULTI_UNIT_DWELLING
+  Owner type: Unknown
+  Network: AMPUP
+  Opening date: 2023-11-22
+  Number of Chargers: 1
+
+Station Name: PARK BOULEVARD 3B-SOUTH
+  Location: (41.827995, -87.628412)
+  State: IL
+  Zip Code: 60609
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-05-31
+  Number of Chargers: 2
+
+Station Name: 155 N WACKER DR P2 EV CHARGER
+  Location: (41.8847, -87.636612)
+  State: IL
+  Zip Code: 60606
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-04
+  Number of Chargers: 2
+
+Station Name: 540 W. MADISON LL1 - 2
+  Location: (41.882478, -87.642289)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-06
+  Number of Chargers: 2
+
+Station Name: 540 W. MADISON LL1 - 1
+  Location: (41.882868, -87.642305)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-06
+  Number of Chargers: 2
+
+Station Name: 540 W. MADISON SOUTH WALL 3
+  Location: (41.882211, -87.641548)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-06
+  Number of Chargers: 2
+
+Station Name: 540 W. MADISON SOUTH WALL 2
+  Location: (41.882211, -87.64158)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-06
+  Number of Chargers: 2
+
+Station Name: 540 W. MADISON SOUTH WALL 1
+  Location: (41.882219, -87.641601)
+  State: IL
+  Zip Code: 60661
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-06
+  Number of Chargers: 1
+
+Station Name: OPTIMA KEVEL 3 SOUTH
+  Location: (41.891528, -87.621686)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-06
+  Number of Chargers: 2
+
+Station Name: OPTIMA LEVEL 2 SOUTH
+  Location: (41.891489, -87.621538)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-06
+  Number of Chargers: 2
+
+Station Name: OPTIMA LEVEL 5 NORTH
+  Location: (41.891514, -87.621605)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-06
+  Number of Chargers: 2
+
+Station Name: OPTIMA LEVEL4 SOUTH W
+  Location: (41.891497, -87.621523)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-06
+  Number of Chargers: 2
+
+Station Name: OPTIMA LEVEL 4 EAST
+  Location: (41.891494, -87.621596)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-06
+  Number of Chargers: 2
+
+Station Name: BELVEDERE APTS BELVEDERE EV1
+  Location: (41.680401, -88.220241)
+  State: IL
+  Zip Code: 60864
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-14
+  Number of Chargers: 2
+
+Station Name: MQMF Chicago Marine Drive
+  Location: (41.965986, -87.649093)
+  State: IL
+  Zip Code: 60640
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: Blink Network
+  Opening date: 2024-03-12
+  Number of Chargers: 2
+
+Station Name: 900 SELF PARK PLUG & SHOP 6
+  Location: (41.899564, -87.626729)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-27
+  Number of Chargers: 2
+
+Station Name: 900 SELF PARK PLUG & SHOP 5
+  Location: (41.899548, -87.626707)
+  State: IL
+  Zip Code: 60611
+  Connector Types: ['J1772']
+  Facility: None
+  Owner type: Unknown
+  Network: ChargePoint Network
+  Opening date: 2024-06-27
+  Number of Chargers: 2
+
+Station Name: Wrigley Field - W Grace St Parking
+  Location: (41.95170034, -87.65910969)
+  State: IL
+  Zip Code: 60613
+  Connector Types: ['J1772']
+  Facility: PARKING_LOT
+  Owner type: Unknown
+  Network: SWTCH
+  Opening date: 2024-06-24
+  Number of Chargers: 10
+
