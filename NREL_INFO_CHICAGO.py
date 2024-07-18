@@ -2,7 +2,7 @@ import os
 import requests
 
 # Define the API key and endpoint
-api_key = 'Tp58hOiBmX5I0BeSz1liCyXZnlCvRHmmzUd6gNhh' 
+api_key = 'My NREL API key' 
 nrel_endpoint = 'https://developer.nrel.gov/api/alt-fuel-stations/v1.json'
 
 # Function to safely convert a value to integer or return 0 if conversion fails
